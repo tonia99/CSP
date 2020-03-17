@@ -1,0 +1,13 @@
+7
+5
+Lesson1,Lesson2,Lesson3,Lesson4,Lesson24,Lesson30,Lesson31
+Lesson5,Lesson6,Lesson7,Lesson8,Lesson9,Lesson10,Lesson11
+Lesson12,Lesson13,Lesson14,Lesson15,Lesson25,Lesson26,Lesson32
+Lesson16,Lesson17,Lesson18,Lesson19,Lesson27,Lesson28,Lesson29
+Lesson20,Lesson21,Lesson22,Lesson23,Lesson33,Lesson34,Lesson35
+Group1:Lesson2,Lesson18,Lesson20,Lesson21,Lesson24,Lesson25
+Group2:Lesson1,Lesson6,Lesson8,Lesson22,Lesson26,Lesson29
+Group3:Lesson4,Lesson9,Lesson12,Lesson27,Lesson28,Lesson30
+Group4:Lesson10,Lesson13,Lesson14,Lesson31,Lesson33,Lesson34
+Group5:Lesson11,Lesson15,Lesson16,Lesson19,Lesson32
+Group6:Lesson5,Lesson17,Lesson7,Lesson3,Lesson23,Lesson35
